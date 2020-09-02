@@ -34,5 +34,6 @@
       - financial
         - stocks
   - entrepreneurship
-  - physical capital
-  - 
+- opportunity cost: the value of the next best alternative that must be given up to obtain something else
+- Production possiblities model
+  - product vs product (results based on different usage of resources)
