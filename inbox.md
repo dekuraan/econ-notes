@@ -10,6 +10,28 @@
     - natural
 - scarcity arises when the supply does not meet the demand
 - scarcity is the situation in which resources are finite, whereas wants are infinite
-- due to scarcity it is important to avoid waste
+- due to scarcity it is important to avoid wasting resources
 - economics is the study of choices leading to the best possible use of scarce resources in order to best satisfy unlimited human needs and wants
-- 
+- Basics economic questions
+  - what to produce
+  - how to produce
+  - for whom to produce
+- resource allocation: assigning available resrouces to specific uses among possible alternatives
+  - change: reallocation
+  - overallocation and underallocation (supply >, supply <)
+- 4 factors of production
+  - land
+  - labour
+  - capital
+    - tools not money
+    - types:
+      - physical
+        - machines
+      - human
+        - skills
+      - natural
+        - ex: OIL
+      - financial
+        - stocks
+  - entrepreneurship
+  - physical capital
