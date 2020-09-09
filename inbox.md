@@ -1,4 +1,5 @@
 # Inbox
+
 - Economics comes from the fact that humans have needs and wants
 - goods objects, services other
 - resources produce goods and services
@@ -37,3 +38,24 @@
 - opportunity cost: the value of the next best alternative that must be given up to obtain something else
 - Production possiblities model
   - product vs product (results based on different usage of resources)
+  - constant = linear
+  - increasing = round
+- social sciences = academic disciplines that study human society and social relationships
+  - economics is a social science bc based on the social scientific method
+  - social scientific method =
+    1. make observation
+    2. identify variables
+    3. make a hypothesis on relationship
+    4. make assumptions
+    5. test hypothesis and finite
+    6. compare predictions
+- in economics models are equations or diagrams
+- theory = general explanation for relationship usually based on successfully tested hypotheses
+- laws is a consise universal statement, tested successfuly many times
+- assumptions in econ model building
+  - ceteris paribus = relationship between 2 vars only works if others do not change
+  - rational economic decision making = people do what is best for them
+- positive economics = describe economy = how things are (unemployment is 5%)
+- normative economics = create policy = how things should be (unemployment should be lower)
+- microeconomics = behaviour of individuals/buisnesses
+- macroeconomics = eocnomy as a whole
