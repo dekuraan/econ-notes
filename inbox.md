@@ -59,3 +59,11 @@
 - normative economics = create policy = how things should be (unemployment should be lower)
 - microeconomics = behaviour of individuals/buisnesses
 - macroeconomics = eocnomy as a whole
+- market = buyers sellers goods services
+  - one or many places
+  - product markets = goods/services
+  - resources markets = factors of prod
+  - competitive market = rivals compete to achieve objective
+  - market power = the control that a seller has over the price of it's product (monopoly market)
+- demand = behaviours of consumers
+- 
