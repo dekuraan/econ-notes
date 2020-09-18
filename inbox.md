@@ -65,5 +65,42 @@
   - resources markets = factors of prod
   - competitive market = rivals compete to achieve objective
   - market power = the control that a seller has over the price of it's product (monopoly market)
-- demand = behaviours of consumers
-- 
+- demand = behaviour of consumers
+  - inidividual demand = behaviour of a consumer
+  - quantity bought based on price
+  - negative causal relationship price -> quantity
+  - marginal benefit (you only need so much of a good) -> demand curve slopes downward
+  - market demand = demand of all consumers
+  - non-price determinants:
+    - income,
+      - normal goods: more income, curve shifts right
+      - inferiour goods: more income, curve shifts left
+    - preferences
+    - price of substitute goods (competitors), price increases, demand curve shifts right
+    - price of complimentary goods, price decreases, demand curve shifts right
+    - population, population increases, demand curve shifts right
+  - shifts, Price: P1 to P2, Quantity: Q1 to Q2, Demand: D1 to D2
+- individual supply: amount of good a firm is _willing and able to produce_
+- law of supply = as price increases quantity supplied increases
+- market supply = sum of all individual firms supplies of a good
+- vertical supply curve: fixed quantity of good supplied
+  - bc: no time to produce more (movie tickets )
+  - no possiblility of producing more of it: antiques
+- non price determinants
+  - cost of FoP: PoFoP rises supply shifts to left, more expensive to make
+  - price of related goods, if the price of one related good increaes, the other curves shift to the left
+  - producer expectations: witholding product in the hopes of selling it later a t a higher price
+    - decreasing quantity causes left shift, selling causes right
+  - taxes: treated as Cost of Production, imposition or elimination of new taxes would shift the curves
+  - subsidy opposite of a tax, opposite effect
+  - number of firms: increase in firms, increases supply: shift right
+  - shocks: usually decrease (potato famine)
+  - supply and demand will always ensure price will go back to equilibrium
+  - market equilibirum: when the supply and demand are equal resulting in a constant price
+    - intersection of supply and demand curves
+    - eqlbrm price: price at equlbrm
+    - eqlbrm quantity
+  - change in NPD (non price determinants)of supply and demand can affect equilibrium
+- economic/allocative efficiency = how well u can use FoP
+- consumer surplus = highet price willing to pay minus price actually paid
+- producer surplus = price sold - lowest price
