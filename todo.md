@@ -1,4 +1,3 @@
 # Todo
 
-- clear inbox
-- 21-30
+- clear inbox before assessment
