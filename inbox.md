@@ -104,3 +104,21 @@
 - economic/allocative efficiency = how well u can use FoP
 - consumer surplus = highet price willing to pay minus price actually paid
 - producer surplus = price sold - lowest price
+- price elasticity of demand (PED) = change in demand / change in price
+  - essentially steepness of demand curve,
+  - PED is always calculative negative
+  - 0 -> perfectly inelastic (charge as much as you want, demand will not change)
+  - 0->1 inelastic (demand is unresponse, not worth reducing price)
+  - 1 unit elastic TR will stay the same 
+  - 1->inf elastic (lower price to make monay)
+  - inf elastic don't change price
+- Total Revenue (TR) = P*Q
+- XED
+  - %change in Q of X / %change in Q of Y
+    - + -> substitute
+      - if both are produced by a single buisness 
+    - - -> complement
+- income elasticity if demand (YED) = change in quantity/change in income
+  - + normal good (increase in same direction)
+  - - inferior good (increase in opposite directions)
+- PES price elasticity of supply (PED but supply instead of demand)
